@@ -9,3 +9,5 @@ Cada integrante del grupo debe adjuntar un archivo donde responda las siguientes
 - Explica a qué arquetipo de historia pertenece tu proyecto (puedes revisar los arquetipos de historia en el material del curso). ¿Por qué crees que tu historia se ajusta a ese arquetipo? ¿Qué elementos de tu historia se relacionan con ese arquetipo?
 
 El análisis debe tener una **extensión mínima de 2000 caracteres** y puedes incluir imágenes para ilustrar tus comentarios.
+
+loremipsum
