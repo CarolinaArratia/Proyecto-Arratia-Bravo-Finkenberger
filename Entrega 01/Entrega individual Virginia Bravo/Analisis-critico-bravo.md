@@ -10,4 +10,3 @@ Cada integrante del grupo debe adjuntar un archivo donde responda las siguientes
 
 El análisis debe tener una **extensión mínima de 2000 caracteres** y puedes incluir imágenes para ilustrar tus comentarios.
 
-plop
