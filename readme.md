@@ -1,5 +1,12 @@
 # Introducción del repositorio
 
+- **Síntesis del proyecto:**
+
+
+
+
+
+
 En un documento (su archivo README de carpeta de entrega) deben presentar el tema elegido, su justificación y la formulación de la hipótesis de investigación. Las secciones a tratar en el documento son:
 - **Síntesis del proyecto:**
   - Resumen del tema en 3 a 5 párrafos. Debe incorporar antecedentes clave, breve descripción del contexto e historia.
