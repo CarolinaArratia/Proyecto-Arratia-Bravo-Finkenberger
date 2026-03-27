@@ -14,15 +14,12 @@ Las columnas irían en el siguiente orden: nombre común, nombre científico, re
 
   - Archivo csv o excel con las columnas y variables que tendrán ya incluidas (como una tabla vacía).
 
-  En Entrega 01, ingresando a la carpeta “Otros documentos”, luego a “Base de especies” y en la que se llama “Nómina”, está la tabla general.
+  En Entrega 01, ingresando a la carpeta “Otros documentos”, luego a “Base de especies” y en la que se llama [“Nómina”](/Bases%20de%20especies/Nomina%20de%20especies.xlsx), está la tabla general.
 
 
 - **Autor y publicación de los datos:** ¿quién o quienes son los propietarios o autores?, dónde se publicó (indiquen el link de descarga o ubicación, o describan cómo la obtuvieron).
 
-La información se obtuvo ingresando al sitio web del Ministerio del Medio Ambiente, en la sección “Procesos de clasificación de especies”, donde se encuentra el listado en formato Excel (XLSX): **https://clasificacionespecies.mma.gob.cl/procesos-de-clasificacion/#:~:text=El%20Reglamento%20de%20Clasificaci%C3%B3n%20de,clasificaci%C3%B3n%20de%20especies%20en%20Chile%22.**
-
-[QUE TEXTO QUIERES MOSTRAR](https://clasificacionespecies.mma.gob.cl/procesos-de-clasificacion/#:~:text=El%20Reglamento%20de%20Clasificaci%C3%B3n%20de,clasificaci%C3%B3n%20de%20especies%20en%20Chile%22)
-
+La información se obtuvo ingresando al sitio web del Ministerio del Medio Ambiente, en la sección “Procesos de clasificación de especies”, donde se encuentra el listado en formato Excel (XLSX): [Nómina de especies](https://clasificacionespecies.mma.gob.cl/procesos-de-clasificacion/#:~:text=El%20Reglamento%20de%20Clasificaci%C3%B3n%20de,clasificaci%C3%B3n%20de%20especies%20en%20Chile%22)
 
 
 - **Contenido:** ¿Qué datos contiene la base? ¿Qué tipo de datos son? ¿Qué variables? ¿En qué periodo se levantaron? 
