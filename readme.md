@@ -23,16 +23,16 @@ En el ámbito mediático y divulgativo, la cobertura suele centrarse en especies
 - **Datos:**
   - ¿Qué datos necesita para probar su hipótesis?
 
-  Para probar la hipótesis. En primer lugar, datos ecológicos que identifiquen las especies clasificadas en categoría de peligro y peligro crítico, junto con su condición de endemismo y su distribución regional dentro de Chile. En segundo lugar, datos de cobertura mediática que registren menciones de estas especies en medios de comunicación nacionales y regionales, permitiendo medir su nivel de visibilidad informativa (esto se hará mediante una base de datos creada específicamente para esta investigación). Finalmente, se necesitan datos de interés ciudadano obtenidos a partir de métricas digitales, como búsquedas o visitas a páginas informativas (en este caso, Wikipedia), que permitan estimar el nivel de atención pública hacia cada especie. 
+Para probar la hipótesis. En primer lugar, datos ecológicos que identifiquen las especies clasificadas en categoría de peligro y peligro crítico, junto con su condición de endemismo y su distribución regional dentro de Chile. En segundo lugar, datos de cobertura mediática que registren menciones de estas especies en medios de comunicación nacionales y regionales, permitiendo medir su nivel de visibilidad informativa (esto se hará mediante una base de datos creada específicamente para esta investigación). Finalmente, se necesitan datos de interés ciudadano obtenidos a partir de métricas digitales, como búsquedas o visitas a páginas informativas (en este caso, Wikipedia), que permitan estimar el nivel de atención pública hacia cada especie. 
 
 
   - ¿Qué datos tiene y qué datos necesita conseguir aún?
 
-  Actualmente, el proyecto cuenta con la base de datos del número total de especies endémicas y no endémicas en categoría de “peligro” y “peligro crítico”, la cual especifica datos como nombre científico, distribución en regiones, familia, etc. También tenemos los datos (debemos agruparlos y crear la base de datos) de “índice de curiosidad” en Wikipedia, que es un registro que cuántas veces se ha buscado una especie en este sitio web (por ejemplo, en los últimos 90 días, la página de la “Ranita de Darwin” ya tenido 204 vistas). Sin embargo, aún es necesario construir la base de datos específica sobre la cobertura mediática, la cual filtrará según los medios, número de publicaciones con palabras claves, región y fechas.  
+Actualmente, el proyecto cuenta con la base de datos del número total de especies endémicas y no endémicas en categoría de “peligro” y “peligro crítico”, la cual especifica datos como nombre científico, distribución en regiones, familia, etc. También tenemos los datos (debemos agruparlos y crear la base de datos) de “índice de curiosidad” en Wikipedia, que es un registro que cuántas veces se ha buscado una especie en este sitio web (por ejemplo, en los últimos 90 días, la página de la “Ranita de Darwin” ya tenido 204 vistas). Sin embargo, aún es necesario construir la base de datos específica sobre la cobertura mediática, la cual filtrará según los medios, número de publicaciones con palabras claves, región y fechas.  
 
   - ¿Qué datos no existen y cómo los obtendrá?
 
-  Hay datos de carácter cualitativos que se transformarán en cuantitavos mediante el análisis de la cobertura mediática digital. 
+Hay datos de carácter cualitativos que se transformarán en cuantitavos mediante el análisis de la cobertura mediática digital. 
 
 
   - ¿Qué datos son públicos y cuáles no?
@@ -41,13 +41,20 @@ En el ámbito mediático y divulgativo, la cobertura suele centrarse en especies
 
   - ¿Qué datos son confiables y cuáles no?
 
-  Wikipedia puede ser una fuente de baja confianza ya que tiene alta interacción con los con usuarios,donde ellos pueden editar la información de la página, pero esto no tiene efectos para nuestra investigación ya que los datos que nos importan están relacionados con cuántas veces es visitado el sitio. 
+Wikipedia puede ser una fuente de baja confianza ya que tiene alta interacción con los con usuarios,donde ellos pueden editar la información de la página, pero esto no tiene efectos para nuestra investigación ya que los datos que nos importan están relacionados con cuántas veces es visitado el sitio. 
 
 
 - **Preguntas a responder:**
   - ¿Cuáles son las preguntas que se pueden responder con los datos?
+
 - **Historia visual:**
   - ¿Cuál es la historia de su proyecto de investigación? ¿Qué es lo nuevo?
+  
+La historia del proyecto busca evidenciar la relación, especialmente la desconexión, entre el riesgo ecológico de las especies en Chile y su visibilidad en el espacio público. A través del cruce de datos territoriales, mediáticos y digitales, se construye un relato que permite observar qué especies son visibles y cuáles permanecen ignoradas. 
+
+Lo novedoso del proyecto radica en integrar tres dimensiones que usualmente se estudian por separado: la ecológica, la comunicacional y la digital. Esta combinación permite no solo identificar qué especies están en peligro, sino también cómo se construye su relevancia social. 
+
+De esta forma, la historia no se limita a describir un problema ambiental, sino que revela patrones en la atención pública, mostrando posibles desigualdades entre la urgencia de conservación y el interés que generan estas especies. 
   - ¿Qué tipo de elementos digitales les gustaría tener? ¿Cómo esos elementos ayudarán a contar su historia? Adjunten
     ejemplos y referencias.
 
