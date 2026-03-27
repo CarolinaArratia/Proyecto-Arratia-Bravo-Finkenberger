@@ -21,6 +21,10 @@ Las columnas irían en el siguiente orden: nombre común, nombre científico, re
 
 La información se obtuvo ingresando al sitio web del Ministerio del Medio Ambiente, en la sección “Procesos de clasificación de especies”, donde se encuentra el listado en formato Excel (XLSX): **https://clasificacionespecies.mma.gob.cl/procesos-de-clasificacion/#:~:text=El%20Reglamento%20de%20Clasificaci%C3%B3n%20de,clasificaci%C3%B3n%20de%20especies%20en%20Chile%22.**
 
+[QUE TEXTO QUIERES MOSTRAR](https://clasificacionespecies.mma.gob.cl/procesos-de-clasificacion/#:~:text=El%20Reglamento%20de%20Clasificaci%C3%B3n%20de,clasificaci%C3%B3n%20de%20especies%20en%20Chile%22)
+
+
+
 - **Contenido:** ¿Qué datos contiene la base? ¿Qué tipo de datos son? ¿Qué variables? ¿En qué periodo se levantaron? 
 
 La tabla contiene: nombre científico, nombre común, sinonimia, forma de vida (arbusto, etc.), reino, división, clase, orden, familia, condición de endemismo, categoría vigente, fuente de la categoría vigente, criterio de clasificación para especies RCE vigentes, número de proceso RCE, referencia o decreto de la categoría vigente, categoría anterior al RCE actual, fuente de la categoría anterior, categoría anterior previa al RCE actual, fuente de esa categoría, y si corresponde a vertebrado, invertebrado, planta u hongo.
