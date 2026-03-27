@@ -13,11 +13,11 @@ Por lo demás, con esta investigación la intención radica en realizar un mapeo
 Respecto a lo que quiero mostrar, me parece que lo mejor sería realizar una división por regiones de Chile, elaborar una tabla e incluir cada una de las especies que en esa región se encuentran en peligro o peligro crítico, para finalmente determinar cuál es la región con un mayor número de especies afectadas y analizar posibles factores asociados a esta distribución.
 Visualmente, esto se podría representar mediante un gráfico con la forma de Chile, en el que, al posicionar el cursor sobre cada región, se visualice el número de especies afectadas presentes en esa zona específica, así como también los animales principales.
 
-![alt text](L-ANI-V-Foto01-Web)
+![Ejemplo de como se vería un gráfico con la forma de Chile](/Entrega%2001/Otros%20documentos/L-ANI-V-Foto01-Web.webp)
 
 En cuanto al mapeo, considero que lo más idóneo sería realizar una división por tipo de especie o grupo taxonómico, de manera que la información resulte más ordenada. Estos conjuntos podrían visualizarse en la página de inicio del sitio, permitiendo conocer cada especie al ingresar en su categoría correspondiente.
 
-![alt text](image.png)
+![Ejemplo del orden del sitio web](/Entrega%2001/Otros%20documentos/imagenes/Captura%20de%20pantalla%202026-03-25%20232109.png)
 
 - Explica a qué arquetipo de historia pertenece tu proyecto (puedes revisar los arquetipos de historia en el material del curso). ¿Por qué crees que tu historia se ajusta a ese arquetipo? ¿Qué elementos de tu historia se relacionan con ese arquetipo?
 
