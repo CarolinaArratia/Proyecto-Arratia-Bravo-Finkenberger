@@ -46,8 +46,14 @@ En el ámbito mediático y divulgativo, la cobertura suele centrarse en especies
 
 - **Preguntas a responder:**
   - ¿Cuáles son las preguntas que se pueden responder con los datos?
+
 - **Historia visual:**
   - ¿Cuál es la historia de su proyecto de investigación? ¿Qué es lo nuevo?
+  La historia del proyecto busca evidenciar la relación, especialmente la desconexión, entre el riesgo ecológico de las especies en Chile y su visibilidad en el espacio público. A través del cruce de datos territoriales, mediáticos y digitales, se construye un relato que permite observar qué especies son visibles y cuáles permanecen ignoradas. 
+
+Lo novedoso del proyecto radica en integrar tres dimensiones que usualmente se estudian por separado: la ecológica, la comunicacional y la digital. Esta combinación permite no solo identificar qué especies están en peligro, sino también cómo se construye su relevancia social. 
+
+De esta forma, la historia no se limita a describir un problema ambiental, sino que revela patrones en la atención pública, mostrando posibles desigualdades entre la urgencia de conservación y el interés que generan estas especies. 
   - ¿Qué tipo de elementos digitales les gustaría tener? ¿Cómo esos elementos ayudarán a contar su historia? Adjunten
     ejemplos y referencias.
 
