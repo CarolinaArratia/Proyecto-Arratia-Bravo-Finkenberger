@@ -1,22 +1,18 @@
 
 
 ### 2. Base de datos inicial
-_Formato: Markdown_
 
-Deben identificar todas las bases de datos que usarán en la investigación para su tema, ya sea una base de datos que existe o definir cómo será y de dónde vendrán los datos de la que tendrán que construir. 
+Para abordar la investigación, construiremos una base de datos para analizar la cobertura  mediática hacia las especies que se encuentran en la categoría de **"Peligro (EN)"** y **"Peligro crítico (CR)"** según la escala del Reglamento de clasificación de especies (RCE). Esto para analizar el cruce de la percepción social y el estado de riesgo de las especies.
 
-a. Si ya existe: pueden ser un documento para bases de datos (CSV, XML, XLSX o JSON), pero deben adjuntarlo.
-b. Si deben crear su propia base de datos, deben entregar un plan de cómo construirán dicha base de datos. 
-  - Indiquen las páginas, informes, papers, artículos, catálogo, portales o cualquier tipo de fuente que les permita luego construir su propio archivo. 
-  - Expliciten el método de recolección de datos que utilizarán (por ejemplo, web scraping, inscripción manual, etc.) junto a las columnas y variables que tendrá. 
-  - archivo csv o excel con las columnas y variables que tendrán ya incluidas (como una tabla vacía).
+Los datos se obtienen mediante una revisión retrospectiva de diferentes artículos periodísticos que incluyan referencias a las especies en las categorías antes mencionadas. Estas menciones deben ser piezas informativas sobre las especies y que se profundice en ella; no solo que se trate de una mención azarosa o sin relevancia.
 
-**Es necesario que tengan al menos una base de datos por cada integrante del grupo (cualquier excepción deben conversarla antes con su profesora).**
+La recolección de datos se hará filtrando piezas noticiosas (ya sea reportajes, crónicas, notas, etc.) que se hayan publicado entre el 25 de septiembre de 2025 y el 25 de marzo de 2026 (un periodo de seis meses).
 
-En un Markdown deben desarrollar también un breve contexto y descripción del material. Esta ficha tiene que considerar:
-- **Autor y publicación de los datos:** ¿quién o quienes son los propietarios o autores?, dónde se publicó (indiquen el link de descarga o ubicación, o describan cómo la obtuvieron).
-- **Contenido:** ¿Qué datos contiene la base? ¿Qué tipo de datos son? ¿Qué variables? ¿En qué periodo se levantaron? 
-- **Pertinencia:** ¿Por qué esta base es valiosa para el tema de investigación? ¿De qué manera les sirve para su reportaje?
-- **Metodología:** ¿Cómo y dónde se levantaron los datos? ¿Con qué instrumentos? (Si deben construir el archivo de base de datos, acá va toda la información sobre el plan que se menciona arriba).
+Se clasificarán en variables cualitativas y cuantitativas que permitan medir no solo la frecuencia, sino la calidad y el origen geográfico de la cobertura.
 
-Suban el archivo o documentos de sus bases al repositorio, en una carpeta dentro de su entrega. 
+Esta base es vital para demostrar que la visibilidad no es democrática. Al incluir la variable de alcance territorial (Regional vs. Nacional), podemos revelar si existe un "centralismo estético", donde los medios de Santiago solo cubren especies carismáticas, mientras que los regionales podrían ser los únicos defensores de la biodiversidad local menos "atractiva". Sin este cruce, la investigación sería solo una lista de animales; con estos datos, se convierte en un análisis del poder de la agenda informativa.
+
+La base de datos incluye lo revisión de las siguientes variables: Identificación de la noticia (Nombre o número), fecha, medio, alcance del medio, alcance del medio, región de origen,nombre popular de la especie,nombre científico, estado de riesgo,si es protagonista o no de la noticia, si la noticia tiene fotografía, el tono de la información (alarmista, preocupante, optimista, etc.)
+
+[Ver aquí el boceto de la base de datos](/Entrega%2001/Entrega%20individual%20Carolina%20Arratia/Bases%20agenda/Base%20de%20datos%20Agenda.xlsx) 
+
