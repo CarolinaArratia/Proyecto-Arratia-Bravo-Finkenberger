@@ -47,6 +47,20 @@ Wikipedia puede ser una fuente de baja confianza ya que tiene alta interacción 
 - **Preguntas a responder:**
   - ¿Cuáles son las preguntas que se pueden responder con los datos?
 
+1. ¿Qué regiones de Chile concentran mayor cantidad de especies en peligro y peligro crítico?  
+
+2. ¿Existe relación entre la concentración de especies amenazadas y su cobertura en medios de comunicación?  
+
+3. ¿Qué especies reciben mayor visibilidad mediática y cuáles son ignoradas?  
+
+4. ¿Qué especies generan mayor interés en la ciudadanía según las búsquedas en Wikipedia?  
+
+5. ¿Coincide el interés ciudadano con el nivel de amenaza de las especies?  
+
+6. ¿Existen diferencias entre especies endémicas y no endémicas en términos de visibilidad e interés?  
+
+7. ¿Qué tipo de especies (por ejemplo, más “carismáticas”) tienden a recibir mayor atención? 
+
 - **Historia visual:**
   - ¿Cuál es la historia de su proyecto de investigación? ¿Qué es lo nuevo?
   
