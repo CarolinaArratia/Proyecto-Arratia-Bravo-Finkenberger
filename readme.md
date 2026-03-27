@@ -60,3 +60,6 @@ Al momento de contar la historia, este formato facilitará el entendimiento, bri
 - **Resultados:**
   - ¿Qué es lo mínimo que se puede contar como historia con los datos que tienen? ¿Qué es lo máximo?
 
+Lo mínimo que se puede contar es una caracterización general de las especies en peligro y peligro crítico en Chile, identificando su distribución territorial y el nivel de interés ciudadano a partir de datos de Wikipedia. 
+
+Lo máximo que se puede lograr es una historia compleja que cruce las tres dimensiones del proyecto, evidenciando brechas entre riesgo ecológico, cobertura comunicacional e interés ciudadano. Esto permitiría identificar patrones, desigualdades y posibles sesgos en la forma en que se construye la visibilidad de la biodiversidad en Chile, generando una interpretación más profunda del problema. 
