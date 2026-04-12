@@ -1,8 +1,26 @@
-### 3. Ficha técnica y diccionario de datos [Individual | formato Markdown]
-Una ficha técnica es un documento que acompaña a la base de datos, que explica la codificación de sus dimensiones o variables. Expliciten al menos los siguientes puntos:
-- Fuente de los datos.
-- Metodología de la construcción de la base
-- Alcance de los datos.
-- Característica de los datos.
-- Otras observaciones que tengan sobre la base.
-- Diccionario de datos: tabla con el nombre de cada variable, su descripción, tipo de dato, valores posibles y observaciones editoriales (si aplica).
+## 3.1. Ficha Técnica: Índice de Curiosidad Digital
+
+### **Fuente de los datos:**
+Los datos provienen de la herramienta Pageviews Analysis de la Fundación Wikimedia. La recolección se realizó utilizando la versión en inglés de Wikipedia (en.wikipedia.org) para medir el impacto de las especies chilenas en una plataforma de alcance global.
+
+### **Metodología de la construcción de la base:**
+La base de datos se construyó mediante la identificación de 70 especies presentes en el territorio nacional. Se realizó una búsqueda individual para cada una en el portal de estadísticas de Wikipedia, configurando el filtro para excluir visitas de "agentes" (bots) y capturar solo el interés de usuarios reales. Para aquellas especies que no cuentan con un artículo propio o que no registraron actividad, se dejó constancia explícita en la tabla.
+
+### **Alcance de los datos:**
+El periodo de análisis comprende exactamente seis meses, desde el 25 de septiembre de 2025 hasta el 25 de marzo de 2026. La base abarca una muestra de biodiversidad compuesta por 70 registros que incluyen diversos grupos taxonómicos como anfibios, aves, reptiles, insectos, arácnidos y crustáceos.
+
+### **Características de los datos:**
+Se trata de una base de datos tabular que combina variables cualitativas (nombres científicos y clasificación taxonómica) con métricas cuantitativas de tráfico web. Los datos permiten observar la disparidad de interés entre distintas especies; por ejemplo, el Sapo de Danko (Telmatobius dankoi) lidera las visitas con un total de 686, mientras que especies como la Pancora (Aegla denticulata) carecen de sitio web registrado.
+
+### **Otras observaciones:**
+Un hallazgo relevante en la base es el alto número de especies (como el caracol Ambrosiella kuscheli o el seudoescorpión Anaperochernes ambrosianus) que figuran "Sin datos" o "Sin sitio web". Esto refuerza el argumento de la investigación sobre la invisibilidad digital de gran parte de la fauna chilena en peligro.
+
+## 3.2. Diccionario de datos
+- **ID:** Esta variable consiste en un identificador numérico único asignado de forma correlativa a cada una de las especies analizadas. Su función principal es facilitar la organización de los 70 registros que componen la base y permitir un cruce de datos eficiente con otras dimensiones del proyecto. Los valores en esta columna son números enteros que van desde el 1 hasta el 70.
+- **Nombre Científico:** Esta variable registra la denominación técnica en latín de cada organismo, siguiendo la taxonomía oficial para asegurar la precisión en la búsqueda de datos. Es de tipo texto y contiene valores como *Acanthogonatus hualpen* o *Telmatobius dankoi*. Se utiliza como el identificador biológico principal para evitar errores derivados de los nombres populares o modismos regionales. La búsqueda en Wikipedia Analystics se realizó usando este nombre.
+- **Nombre Común:** Consiste en el nombre popular o descriptivo con el que la especie es reconocida habitualmente en el territorio chileno. Es una variable de tipo texto que incluye registros como *pancora*, *sapo de Danko* o denominaciones más generales como *araña (genérico)* cuando no existe un nombre común distintivo. Esta dimensión es clave para analizar cómo el público general identifica a estos organismos.
+- **Clase:** Esta variable cualitativa describe la categoría taxonómica superior a la que pertenece cada organismo, permitiendo agrupar la información según el tipo de animal. Los datos son de tipo texto y en la base se encuentran valores como Amphibia, Aves, Insecta, Arachnida, Malacostraca, Gastropoda, Reptilia, Actinopterygii y Anthozoa. Es fundamental para observar qué grupos biológicos despiertan mayor o menor interés digital.
+- **Total Visitas (periodo seis meses):** Esta es la variable cuantitativa principal y representa la sumatoria de todas las visualizaciones humanas registradas en el periodo de 181 días. Los valores son numéricos, alcanzando un máximo de 686 visitas en la muestra actual, aunque también incluye la etiqueta **"Sin sitio web"** o **"Sin datos"** para aquellos casos donde Wikipedia no tenía una página destinada a la especie y para cuando a pesar de tener página no habían datos registrados, respectivamente. Esta variable mide la magnitud total de la curiosidad generada por la especie en el semestre estudiado.
+- **Promedio Diario:** Esta variable de tipo numérico o decimal indica la frecuencia media de visitas que recibe el artículo de cada especie por día. Los valores fluctúan entre 0 y 4 en los registros actuales, permitiendo normalizar el impacto de la especie independientemente de la duración exacta del periodo de toma de datos. Al igual que la variable anterior, puede contener la observación "Sin sitio web" o "Sin datos" si el registro de origen no presenta actividad.
+- **URL Fuente:** Consiste en el enlace directo a la herramienta Pageviews de Wikipedia de donde se extrajeron las estadísticas originales. Es una variable de tipo texto (URL) que contiene enlaces hacia el dominio wmcloud.org. Esta columna es esencial para garantizar la transparencia de la investigación y permitir que cualquier usuario verifique los parámetros de búsqueda y las fechas utilizadas en la recolección de los datos.
+
