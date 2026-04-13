@@ -22,23 +22,18 @@ La base corresponde a datos estructurados, organizados en formato tabular. Predo
 
 Se mantuvieron categorías específicas como “ENR” para conservar información relevante. Asimismo, se conservaron registros con ausencia de datos (“sin datos”) para evitar la pérdida de información en la tabla reducida; sin embargo, estos no se consideraron en la distribución de presencia por región, debido justamente a la falta de información disponible.
 
-
-- Diccionario de datos: 
-
-| Variable | Descripción | Tipo de dato | Valores posibles | Observaciones |
-
 ## Diccionario de datos
 
-| Variable | Descripción | Tipo de dato | Valores posibles | Observaciones |
-|----------|------------|--------------|------------------|--------------|
-| nombre_cientifico | Nombre científico de la especie | Texto | - | Puede incluir subespecies |
-| nombre_comun | Nombre común de la especie | Texto | - | Puede variar según fuente |
-| reino | Reino biológico de la especie | Categórico | Animalia | Se filtraron solo especies animales |
-| clase | Clase biológica de la especie | Categórico | Mamífero, ave, reptil, anfibio, etc. | |
-| endemico_chile | Indica si la especie es endémica de Chile | Categórico | Sí | Todas las especies cumplen esta condición debido al filtrado aplicado |
-| categoria | Categoría de conservación de la especie | Categórico | CR, EN, ENR | Incluye variantes como ENR |
-| region | Región donde se distribuye la especie | Texto | Regiones de Chile | Puede repetirse en múltiples filas |
-| presencia_region | Indica la presencia de una especie en una región | Numérico (implícito) | 1 por fila | Se representa mediante duplicación de registros |
+| Nombre_variable    | Etiqueta                                              | Tipo        | Valores posibles                              |
+|-------------------|-------------------------------------------------------|-------------|----------------------------------------------|
+| nombre_científico | Nombre científico de la especie                       | texto       | Texto libre                                 |
+| nombre_común      | Nombre común de la especie                            | texto       | Texto libre                                 |
+| reino             | Reino biológico al que pertenece la especie           | categórico  | Animalia                                    |
+| clase             | Clase biológica de la especie                         | categórico  | Mamífero, Ave, Reptil, Anfibio, etc.        |
+| endémico_chile    | Indica si la especie es endémica de Chile             | categórico  | Sí                                          |
+| categoria         | Categoría de conservación de la especie               | categórico  | CR, EN, ENR                                 |
+| región            | Región del territorio chileno donde habita la especie | texto       | Regiones de Chile                           |
+| presencia_region  | Registro de presencia de la especie en una región     | numérico    | 1 (Una fila representa una presencia)       |
 
 **Nota:** 
 En las bases de datos organizadas por región, una misma especie puede aparecer en múltiples filas, ya que se registra una vez por cada región en la que está presente. Esto permite analizar la distribución territorial de las especies.
