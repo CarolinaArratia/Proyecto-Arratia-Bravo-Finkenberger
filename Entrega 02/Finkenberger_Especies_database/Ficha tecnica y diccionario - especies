@@ -22,11 +22,6 @@ La base corresponde a datos estructurados, organizados en formato tabular. Predo
 
 Se mantuvieron categorías específicas como “ENR” para conservar información relevante. Asimismo, se conservaron registros con ausencia de datos (“sin datos”) para evitar la pérdida de información en la tabla reducida; sin embargo, estos no se consideraron en la distribución de presencia por región, debido justamente a la falta de información disponible.
 
-
-- Diccionario de datos: 
-
-| Variable | Descripción | Tipo de dato | Valores posibles | Observaciones |
-
 ## Diccionario de datos
 
 | Variable | Descripción | Tipo de dato | Valores posibles | Observaciones |
