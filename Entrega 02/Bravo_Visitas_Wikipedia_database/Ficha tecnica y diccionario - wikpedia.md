@@ -15,7 +15,7 @@ Se trata de una base de datos tabular que combina variables cualitativas (nombre
 ### **Otras observaciones:**
 Un hallazgo relevante en la base es el alto número de especies (como el caracol Ambrosiella kuscheli o el seudoescorpión Anaperochernes ambrosianus) que figuran "Sin datos" o "Sin sitio web". Esto refuerza el argumento de la investigación sobre la invisibilidad digital de gran parte de la fauna chilena en peligro.
 
-## 3.2. Diccionario de datos
+## 3.2. Diccionario de datos:
 
 | Nombre de la Variable | Descripción | Tipo de Dato | Valores Posibles | Observaciones Editoriales |
 | :--- | :--- | :--- | :--- | :--- |
