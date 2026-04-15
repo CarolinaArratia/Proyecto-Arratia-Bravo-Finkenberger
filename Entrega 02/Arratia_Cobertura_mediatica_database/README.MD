@@ -2,49 +2,41 @@
 ###### Historial de procesos y decisiones
 
 ## 1. Elección y Curaduría de la Muestra:
-La base de datos original del Ministerio del Medio Ambiente contenía miles de registros de diversas categorías. Para los fines de esta investigación, el equipo decidió realizar un filtro crítico bajo los siguientes criterios:
+La base de datos original del Ministerio del Medio Ambiente es el punto de partida. Para nuestra investigación, el criterio de selección fue el estado de vulnerabilidad:
 
-**Prioridad Ecológica:** Se seleccionaron únicamente especies clasificadas en Peligro Crítico (CR), por ser las que requieren mayor visibilidad mediática inmediata.
+**Foco en la Urgencia:** Se analizaron especies en Peligro Crítico (CR). La muestra de 70 especies permitió rastrear no solo animales "famosos", sino también insectos, caracoles y anfibios que suelen ser invisibles para la prensa nacional.
 
-**Manejabilidad y Foco:** Se redujo la lista a 70 especies para permitir un análisis profundo y manual de la cobertura de prensa, Wikipedia y Google Trends, asegurando que cada dato recolectado fuera verificado y no solo un conteo automático.
-
-**Consistencia del equipo:** Esta selección fue la base compartida para las tres integrantes del grupo. Mientras una parte del equipo se enfocó en la presencia en la enciclopedia Wikipedia, la otra (cobertura de medios) utilizó esta misma lista para rastrear la huella digital en la prensa chilena, garantizando que ambos análisis se crucen sobre los mismos sujetos de estudio.
-
+**Consistencia del equipo:** Esta lista es el "corazón" del trabajo grupal. Al mantener los mismos IDs (del 1 al 70), aseguramos que cuando juntemos las bases de datos de Wikipedia y Prensa, los resultados sean comparables.
 
 ## 2. Estrategia de búsqueda y limpieza de ruido:
-Uno de los mayores obstáculos fue la ambigüedad de los nombres. Especies como el "Caracol" o el "Borrachito" generaban miles de resultados que no tenían nada que ver con la biodiversidad (restaurantes, canciones o noticias policiales).
+El principal desafío fue la **Ambigüedad Mediática**. Muchos nombres comunes en Chile se usan de forma genérica para distintas especies.
 
-**Decisión tomada:** En lugar de aceptar los resultados masivos, se optó por usar operadores de exclusión. Por ejemplo, para el caracol, se configuró la búsqueda como "caracol" -música -canción -receta. Esto permitió "limpiar" la base antes de que los datos ingresaran al Excel, asegurando que cada número de mención sea real.
+**El "Caso Araña Pollito" (ID 24):** Durante la limpieza, encontramos una noticia de *El Morrocotudo* titulada "Araña pollito: El mapa de las regiones...". Aunque el nombre común coincidía con nuestro ID 24 (*Euathlus parvulus*), el texto mencionaba científicamente a la *Grammostola rosea*. 
+**Decisión tomada:** Aplicamos rigor periodístico y **descartamos la noticia**. Como la especie descrita no era la de nuestra lista oficial, incluirla habría inflado falsamente los datos de cobertura para una especie que, en la realidad, sigue siendo invisible.
 
-**Herramientas:** Se utilizó el Playground de SerpApi para testear estas exclusiones antes de descargar los archivos finales.
+## 3. Proceso de limpieza manual (Sin automatización):
+A diferencia de otros procesos, decidimos **no utilizar Python ni herramientas de limpieza automatizada** para el análisis final. 
 
-## 3. Justificación de la estructura ID y cruce de datos:
-Para esta entrega, decidimos que cada especie tuviera una sola fila pero múltiples archivos de respaldo.
+**Razón:** La detección de la "ceguera mediática" requiere una lectura humana. Una máquina podría contar una mención a "reptiles" como válida, pero nuestra metodología solo acepta menciones específicas. Revisamos cada URL manualmente para verificar:
+1. Que la noticia fuera de un medio chileno.
+2. Que la fecha estuviera dentro del rango (septiembre 2025 - marzo 2026).
+3. Que la especie fuera realmente la protagonista o una mención relevante, descartando menciones en "menús" de navegación o publicidad.
 
-**¿Por qué?:** Si una especie (como el ID 45) tiene un archivo para su nombre común y otro para el científico, podemos analizar por qué un nombre "vende" más que otro en la prensa.
+## 4. Resultados del análisis (Muestra limpia):
+Tras el proceso de limpieza, la base de datos pasó de un bruto de 190 resultados a una selección final de **21 registros de análisis**. 
 
-**Organización:** Se mantuvo el mismo orden de ID que los datos de Wikipedia y Google Trends de los otros integrantes del grupo. Esto asegura que, al final del semestre, podamos unir todas las tablas sin que se produzcan inconsistencias o se dupliquen especies.
-
-## 4. Clasificación de medios (Nacional vs. Regional):
-Se tomó la decisión editorial de separar las menciones por alcance.
-
-**Decisión tomada:** Esto responde a la hipótesis de que existe un centralismo mediático. Al separar los datos, podemos ver si los medios de Santiago solo hablan de animales "famosos" (como el Picaflor de Arica) mientras los medios regionales son los únicos que cubren especies menos conocidas (como la Araña Pollito).
+**Hallazgos de la limpieza:**
+* **Especies Estrella:** El Picaflor de Arica (ID 25) y el Lagarto Gruñidor de Álvaro (ID 45) acaparan casi el 80% de las noticias válidas.
+* **Ceguera Absoluta:** Especies como el Caracol de Hualpén (ID 43) o el Sapo de Danko (ID 62) no registraron ni una sola mención en el semestre, confirmando nuestra tesis inicial.
 
 ## 5. Uso de valores 0 y 1:
-Aunque para una persona es más fácil leer "Sí" o "No", decidimos usar el formato 1 (Sí) y 0 (No).
-
-**Razón técnica:** Esto permite que la base de datos sea "procesable". Al tener números, podemos sacar porcentajes rápidos (ej: "Solo el 10% de las especies tienen foto en las noticias") y permite que el archivo sea compatible con herramientas de visualización de datos más avanzadas.
+Mantenemos el formato de 1 (Sí) y 0 (No) para las variables de análisis. Esto nos permite usar Tablas Dinámicas en Excel para responder preguntas complejas sin necesidad de contar manualmente. Por ejemplo, pudimos determinar rápidamente que el 100% de las noticias sobre el Picaflor de Arica incluyen foto, mientras que las noticias sobre caracoles terrestres (ID 17) carecen de apoyo visual.
 
 ## 6. Fuentes utilizadas y por qué:
-
-**SerpApi (Google News):** Fue elegida porque captura la "huella digital" de la prensa. Si una noticia no aparece aquí, es muy probable que el ciudadano común nunca se entere de la existencia de esa especie.
-
-**Nómina MMA:** Se eligieron solo especies en Peligro Crítico (CR) para poner a prueba la eficiencia de la prensa: si un animal está a punto de desaparecer y nadie habla de él, estamos frente a una falla grave de la comunicación ambiental.
+**SerpApi (Google News):** Fue la herramienta elegida para la captura. La elegimos porque indexa tanto medios grandes (EMOL, BioBio) como medios regionales. Esto nos permitió ver que especies como el Caracol de Paposo (ID 17) solo aparecen cuando hay alertas gubernamentales nacionales, desapareciendo de la agenda regional el resto del tiempo.
 
 ### Preguntas que nuestra base de datos puede responder:
 
-1. ¿Es verdad que las especies "carismáticas" (las que se ven bonitas o tiernas) tienen más fotos en la prensa que los insectos o caracoles?
-
-2. ¿Cuántas especies en peligro crítico son totalmente invisibles para los medios de comunicación en un semestre completo?
-
-3. ¿La prensa nacional usa nombres científicos para sonar más profesional, o prefiere los nombres comunes para llegar a más gente?
+1. **¿Existe un sesgo de belleza?** Podemos cruzar el ID de la especie con la columna "Tiene foto" para demostrar si los animales "bonitos" (aves) tienen más presencia visual que los "feos" (insectos o caracoles).
+2. **¿Quién educa más?** Al filtrar por "Usa N. Científico", podemos ver qué medios (nacionales vs regionales) contribuyen más a la alfabetización científica de la población.
+3. **¿La prensa solo reacciona a la tragedia?** Cruzando el "Tono" con las fechas de publicación, la base muestra que el Lagarto Gruñidor solo aparece vinculado a incendios forestales (Tono: Alerta), demostrando que no hay una cobertura educativa constante, sino reactiva.
