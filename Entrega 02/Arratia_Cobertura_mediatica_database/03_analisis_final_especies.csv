@@ -1,0 +1,224 @@
+﻿Especie ID;Nombre científico ;Nombre común;Clase;RCE;ID Noticia;URL;Fuente;Usa N. Científico;Usa N. Común;Alcance;Es protagonsita;Tiene foto;Tono predominante
+1;Acanthogonatus hualpen;Araña (genérico);Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+2;Aegla denticulata;pancora;Malacostraca;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+3;Aegla papudo ;piñacha, pancora, pancora de Papudo;Malacostraca;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+4;Alsodes laevis;sapo de pecho espinoso de Potrero;Amphibia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+5;Alsodes norae;rana de pecho espinoso de Oncol;Amphibia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+6;Alsodes vittatus;sapo de pecho espinoso de Malleco;Amphibia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+7;Ambrosiella kuscheli;caracol;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+8;Anaperochernes ambrosianus;seudoescorpión;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+9;Aphrastura masafuerae;rayadito de Más Afuera;Aves;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+10;Biomphalaria costata;caracol de agua dulce;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+11;Brachistosternus philippii;escorpión de Philippi;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+12;Callisphyris ficheti;sierra del Orocoipo;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+13;Callyntra hibrida;cascarudo híbrido o cascarudo del Poqui;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+14;Chelanops pugil;seudoescorpión;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+15;Chellius piramidalis;caracol de concha piramidal;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+16;Chiasognathus jousselini;cantárida, ciervo volante peludo;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+17;Chilina angusta;caracol de Paposo;Gasotropoda;CR;Pingüino de Humboldt y lagarto gruñidor en peligro;Diario Sustentable;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.diariosustentable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;0;Alerta
+17;Chilina angusta;caracol de Paposo;Gasotropoda;CR;Especies en riesgo: pingüino de Humboldt, lagarto de Álvaro y plantas de Juan Fernández en alerta;El Mostrador;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.elmostrador.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;0;Alerta
+17;Chilina angusta;caracol de Paposo;Gasotropoda;CR;Pingüino de Humboldt y especies endémicas en Chile aumentan riesgo de extinción;Cooperativa Ciencia;https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cooperativaciencia.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+18;Cnemalobus pegnai;;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+19;Ectinogonia barrigai;balita de Barriga, bupréstido de Barriga;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+20;Entomochilus wilsoni;tenebrio de Wilson, teatino de Wilson;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+21;Euathlus antai;araña pollito, tarántula;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+22;Euathlus atacama;araña pollito, tarántula;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+23;Euathlus condorito;araña pollito, tarántula;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+24;Euathlus parvulus;tarántula enana, araña pollito;Arachnida;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Estudio advierte cómo el picaflor de Arica está perdiendo su hábitat debido a los monocultivos;BioBioChile;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.biobiochile.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Solo quedan 400: Crean microreserva de más de 15 hectáreas para proteger al picaflor de Arica;Ladera Sur;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://laderasur.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;0;1;Nacional;1;1;Conservación
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Picaflor de Arica en peligro: Monocultivos amenazan su hábitat;Cooperativa.cl;https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cooperativa.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Alertan pérdida de hábitat del picaflor de Arica por expansión de monocultivos en valles del norte;El Mostrador;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.elmostrador.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Crean microreserva de más de 15 hectáreas para proteger a picaflor de Arica, especie que está peligro crítico de extinción;The Clinic;https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theclinic.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Conservación
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Picaflor de Arica pierde terreno: Estudio alerta impacto de monocultivos en Azapa, ¿qué hacer?;Fundación Terram;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.terram.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Regional;1;1;Alerta
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Estudio advierte pérdida de hábitat del picaflor de Arica por expansión agrícola;Cooperativa Ciencia;https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cooperativaciencia.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+25;Eulidia yarrellii;picaflor de Arica, estrellita chilena;Aves;CR;Picaflor de Arica en peligro crítico: estudio alerta impacto de la agricultura intensiva;Canal 9 Bío Bío Televisión;https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.canal9.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;0;1;Nacional;1;1;Crítico
+26;Geranoaetus polyosoma exsul;aguilucho de Más Afuera, aguilucho de Juan Fernández, blindado;Aves;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+27;Heleobia atacamensis;caracol;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+28;Heleobia transitoria;caracol;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+29;Liolaemus confusus;lagartija de Lolol;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+30;Liolaemus curis;lagarto negro;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+31;Liolaemus hermannunezi;lagartija de Herman Núñez;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+32;Liolaemus melaniceps;lagartija;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+33;Liolaemus normae;lagarto leopardo de Norma, lagarto de los cristales;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+34;Nigroperla costalis;;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+35;Nycterinus penai;tenebrio de Peña, teatino de Peña;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+36;Omalonyx gayana;caracol terrestre Omalonyx;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+37;Orestias gloriae;pez (genérico);Actinopterygii;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+38;Orestias piacotensis;karachi;Actinopterygii;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+39;Palmaspis jubae;Escama  gigante de palma chilena;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+40;Paraholopterus nahuelbutensis;;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+41;Phymaturus alicahuense;matuasto de Alicahue;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+42;Phymaturus vociferator;matuasto del Laja, matuasto vociferador;Reptilia;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+43;Pichikadi hualpensis;caracol costilludo de Hualpén;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+44;Praocis medvedevi;;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+45;Pristidactylus alvaroi;lagarto gruñidor de Álvaro;Reptilia;CR;Equipo UM logró que el “Lagarto gruñidor de Álvaro” sea considerado “en peligro crítico de extinción”;Diario Mayor;https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.diariomayor.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+45;Pristidactylus alvaroi;lagarto gruñidor de Álvaro;Reptilia;CR;Declaran al Lagarto gruñidor de Álvaro, especie endémica chilena, en «Peligro Crítico de Extinción;Fundación Terram;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.terram.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+45;Pristidactylus alvaroi;lagarto gruñidor de Álvaro;Reptilia;CR;Ministra Rojas expone dramático estado del pingüino de Humboldt, lagarto gruñidor y otras 70 especies;El Desconcierto;https://encrypted-tbn1.gstatic.com/faviconV2?url=https://eldesconcierto.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;0;1;Nacional;1;0;Alerta
+45;Pristidactylus alvaroi;lagarto gruñidor de Álvaro;Reptilia;CR;Pingüino de Humboldt y lagarto gruñidor en peligro;Diario Sustentable;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.diariosustentable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+45;Pristidactylus alvaroi;lagarto gruñidor de Álvaro;Reptilia;CR;Especies en riesgo: pingüino de Humboldt, lagarto de Álvaro y plantas de Juan Fernández en alerta;El Mostrador;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.elmostrador.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;0;Alerta
+45;Pristidactylus alvaroi;lagarto gruñidor de Álvaro;Reptilia;CR;Pingüino de Humboldt y especies endémicas en Chile aumentan riesgo de extinción;Cooperativa Ciencia;https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cooperativaciencia.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Alerta
+46;Pseudorestias lirimensis;pez (genérico);Actinopterygii;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+47;Punctum conicum;caracol terrestre Punctum;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+48;Punctum depressum;caracol terrestre Punctum;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+49;Rhinoderma rufum;ranita ;Amphibia;CR;Revelan cómo el hongo quítrido se propaga y empuja a la ranita de Darwin a la extinción en Chile;El Mostrador;https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.elmostrador.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;0;1;Nacional;0;0;Crítico
+49;Rhinoderma rufum;ranita ;Amphibia;CR;Contraloría aprueba plan para proteger a las Ranitas de Darwin tras revisión del Gobierno;Radio Paulina;https://encrypted-tbn0.gstatic.com/faviconV2?url=https://radiopaulina.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;1;1;Institucional
+50;Sclerostomulus nitidus;borrachito;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+51;Sephanoides fernandensis;picaflor de Juan Fernández;Aves;CR;1000 genomas: el proyecto que busca construir el inventario más completo de la biodiversidad de Chile;Pontificia Universidad Católica de Chile;https://encrypted-tbn0.gstatic.com/faviconV2?url=https://biologia.uc.cl&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;1;1;Nacional;0;0;Educativo
+51;Sephanoides fernandensis;picaflor de Juan Fernández;Aves;CR;Chile levanta el mayor registro genético de su biodiversidad;EL PAÍS;https://encrypted-tbn1.gstatic.com/faviconV2?url=https://elpais.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL;0;1;Nacional;0;0;Informativo
+52;Sterphus aurifrons;mosco de Juan Fernández, mosco de rostro dorado;Insecta;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+53;Succinea cryptica;caracol terrestre Succinea;Gastropoda;CR;Sin Datos;Sin Datos;Sin Datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+54;Succinea cumingi;caracol terrestre Succinea;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+55;Succinea fernandi;caracol terrestre Succinea;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+56;Succinea masafuerae;caracol terrestre Succinea;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+57;Succinea rubicunda;caracol terrestre Succinea;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+58;Succinea semiglobosa;caracol terrestre Succinea;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+59;Succinea texta;caracol terrestre Succinea;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+60;Swiftia comauensis;gorgona amarilla-roja;Anthozoa;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+61;Telmatobius chusmisensis;sapo;Amphibia;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+62;Telmatobius dankoi;sapo de Danko;Amphibia;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+63;Telmatobius fronteriensis;sapo ;Amphibia;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+64;Telmatobius halli;sapo ;Amphibia;CR;;;;;;;;;
+65;Telmatobius vilamensis;rana de Vilama;Amphibia;CR;;;;;;;;;
+66;Tornatellina aperta;caracol terrestre Tornatellina;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+67;Tornatellina bilamellata;caracol terrestre Tornatellina;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+68;Tornatellina callosa;caracol terrestre Tornatellina;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+69;Tornatellina plicosa;caracol terrestre Tornatellina;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+70;Tornatellina reclusiana;caracol terrestre Tornatellina;Gastropoda;CR;;;;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+71;Acalodegma vidali;;Insecta;EN;;;;;;;;;
+72;Aegla bahamondei;Pancora;Malacostraca;EN;;;;;;;;;
+73;Aegla concepcionensis;Pancora;Malacostraca;EN;;;;;;;;;
+74;Aegla expansa;Pancora;Malacostraca;EN;;;;;;;;;
+75;Aegla laevis;Pancora;Malacostraca;EN;;;;;;;;;
+76;Aegla occidentalis;Pancora;Malacostraca;EN;;;;;;;;;
+77;Aegla papudo;Pancora;Malacostraca;EN;;;;;;;;;
+78;Allograpta robinsoniana;Mosca florícola de Juan Fernández;Insecta;EN;;;;;;;;;
+79;Alsodes cantillanensis;Sapo;Amphibia;EN;;;;;;;;;
+80;Alsodes valdiviensis;Rana de pecho espinoso de Cordillera Pelada;Amphibia;EN;;;;;;;;;
+81;Alyma quiriquinaensis;Típula pintada;Insecta;EN;;;;;;;;;
+82;Americobdella valdiviana;Liguay, sanguijuela gigante valdiviana;Clitellata;EN;;;;;;;;;
+83;Amphidoxa arctispira;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+84;Amphidoxa ceroides;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+85;Amphidoxa helicophantoides;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+86;Amphidoxa marmorella;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+87;Amphidoxa pusio;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+88;Amphidoxa quadrata;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+89;Amphidoxa selkirki;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+90;Amphidoxa tessellata;Caracol terrestre Amphidoxa;Gastropoda;EN;;;;;;;;;
+91;Aplochiton zebra;Peladilla;Actinopterygii;EN;;;;;;;;;
+92;Apterodorcus tristis;Mancapollo, pica pollo, borracho, borrachito, buey;Insecta;EN;;;;;;;;;
+93;Basilichthys semotilus;Pejerrey;Actinopterygii;EN;;;;;;;;;
+94;Bolborhinum trilobulicorne;Escarabajo;Insecta;EN;;;;;;;;;
+95;Brachistosternus cepedai;Escorpión de Cepeda;Arachnida;EN;;;;;;;;;
+96;Bullockia maldonadoi;Bagrecito;Actinopterygii;EN;;;;;;;;;
+97;Callyntra cantillana;Cascarudo de Cantillana;Insecta;EN;;;;;;;;;
+98;Callyntra multicosta;Cascarudo de Las Docas;Insecta;EN;;;;;;;;;
+99;Callyntra penai;Cascarudo de Peña;Insecta;EN;;;;;;;;;
+100;Callyntra planiuscula;Cascarudo de la Plata;Insecta;EN;;;;;;;;;
+101;Charopa involuta;Caracol terrestre Charopa;Gastropoda;EN;;;;;;;;;
+102;Charopa masafuerae;Caracol terrestre Charopa;Gastropoda;EN;;;;;;;;;
+103;Chinchilla lanigera;Chinchilla costina;Mammalia;EN;;;;;;;;;
+104;Cnemalobus hirsutus;;Insecta;EN;;;;;;;;;
+105;Cnemalobus nuria;;Insecta;EN;;;;;;;;;
+106;Conognatha azarae fisheri;Balita, insecto joya de Fisher;Insecta;EN;;;;;;;;;
+107;Conognatha leechi;Balita, insecto joya de Leech;Insecta;EN;;;;;;;;;
+108;Diplomystes camposensis;Tollo;Actinopterygii;EN;;;;;;;;;
+109;Diplomystes nahuelbutaensis;Tollo ;Actinopterygii;EN;;;;;;;;;
+110;Enodisomacris curtipennis;"Langosta de alas cortas; langosta de Ureta; langosta de Lila; langosta de La Chimba
+";Insecta;EN;;;;;;;;;
+111;Erichius virgatus;Borrachito de Tolhuaca, borrachito listado de Tolhuaca;Insecta;EN;;;;;;;;;
+112;Euathlus affinis;Tarántula afín de Santiago;Arachnida;EN;;;;;;;;;
+113;Eupsophus altor;Rana de hojarasca de Oncol;Amphibia;EN;;;;;;;;;
+114;Eupsophus contulmoensis;Sapo de Contulmo;Amphibia;EN;;;;;;;;;
+115;Eupsophus septentrionalis;Ranita de Los Queules;Amphibia;EN;;;;;;;;;
+116;Exallococcus laureliae;Cochinilla de fieltro (genérico);Insecta;EN;;;;;;;;;
+117;Falco sparverius fernandenzis;Cernícalo de Juan Fernández;Aves;EN;;;;;;;;;
+118;Fernandezia bulimoides;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+119;Fernandezia conifera;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+120;Fernandezia consimilis;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+121;Fernandezia cylindrella;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+122;Fernandezia diaphana;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+123;Fernandezia expansa;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+124;Fernandezia inornata;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+125;Fernandezia longa;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+126;Fernandezia philippiana;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+127;Fernandezia splendida;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+128;Fernandezia tryoni;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+129;Fernandezia wilsoni;Caracol terrestre de Juan Fernández;Gastropoda;EN;;;;;;;;;
+130;Gyriosomus angustus;Vaquita del desierto de Paposo;Insecta;EN;;;;;;;;;
+131;Heleobia ascotanensis;Caracol;Gastropoda;EN;;;;;;;;;
+132;Henicotherus francisca;No conocido;Insecta;EN;;;;;;;;;
+133;Homoeomma orellanai;Tarántula enana de penacho amarillo, araña pollito;Arachnida;EN;;;;;;;;;
+134;Lasia pulla;Mosca colibrí enana;Insecta;EN;;;;;;;;;
+135;Liolaemus carlosgarini;Lagartija de Garín;Reptilia;EN;;;;;;;;;
+136;Liolaemus fabiani;Lagartija de Fabián;Reptilia;EN;;;;;;;;;
+137;Liolaemus foxi;Lagartija de Fox;Reptilia;EN;;;;;;;;;
+138;Liolaemus frassinettii;Lagartija del Cerro Cantillana, lagarto de Frassinetti;Reptilia;EN;;;;;;;;;
+139;Liolaemus leftrarui;Lagartija de Leftraru, Leftraru’s Lizard (Inglés);Reptilia;EN;;;;;;;;;
+140;Liolaemus leopardinus;Lagarto leopardo;Reptilia;EN;;;;;;;;;
+141;Liolaemus manueli;Lagartija de Manuel;Reptilia;EN;;;;;;;;;
+142;Liolaemus nigrocoeruleus;Lagartija negro azulada, Black Bluish Lizard (Inglés);Reptilia;EN;;;;;;;;;
+143;Liolaemus scorialis;Lagarto del escorial, Slag Lizard (Inglés);Reptilia;EN;;;;;;;;;
+144;Liolaemus septentrionalis;Lagartija pintada septentrional, Northern Painted Lizard (Inglés);Reptilia;EN;;;;;;;;;
+145;Liolaemus thermarum;Lagartija del Azufre;Reptilia;EN;;;;;;;;;
+146;Liolaemus ubaghsi;Lagarto leopardo de Ubaghs, Ubaghs’ Leopard Lizard (Inglés);Reptilia;EN;;;;;;;;;
+147;Liolaemus villaricensis;Lagartija;Reptilia;EN;;;;;;;;;
+148;Luispenaia paposo;Pololo de Paposo;Insecta;EN;;;;;;;;;
+149;Lycalopex fulvipes;Zorro de Chiloé;Mammalia;EN;;;;;;;;;
+150;Lynceus huentelauquensis;Camarón almeja de Huentelauquén;Branchiopoda;EN;;;;;;;;;
+151;Mordacia lapicida;Lamprea de agua dulce;Cephalaspidomorphi;EN;;;;;;;;;
+152;Nematogenys inermis;Bagre grande;Actinopterygii;EN;;;;;;;;;
+153;Neuquenaphis staryi;"No tiene, se propone ""pulgón del Ruíl""";Insecta;EN;;;;;;;;;
+154;Nycterinus angusticollis;Insecto joya;Insecta;EN;;;;;;;;;
+155;Nycterinus borealis;Cucaracho negro;Insecta;EN;;;;;;;;;
+156;Nycterinus mannerheimi;Tenebrio de Mannerheim, teatino de Mannerheim;Insecta;EN;;;;;;;;;
+157;Oogenius castilloi;;Insecta;EN;;;;;;;;;
+158;Oogenius penai;;Insecta;EN;;;;;;;;;
+159;Orestias ascotanensis;Karachi, orestias;Actinopterygii;EN;;;;;;;;;
+160;Orestias chungarensis;Karachi, orestias;Actinopterygii;EN;;;;;;;;;
+161;Orestias laucaensis;Karachi, orestias;Actinopterygii;EN;;;;;;;;;
+162;Orestias parinacotensis;Karachi, orestias;Actinopterygii;EN;;;;;;;;;
+163;Paropisthopatus umbrinus;Gusano aterciopelado, onicóforo (genérico);Udeonycophora;EN;;;;;;;;;
+164;Percilia gillissi;Carmelita;Actinopterygii;EN;;;;;;;;;
+165;Percilia irwini;Carmelita de Concepción;Actinopterygii;EN;;;;;;;;;
+166;Phyllopetalia altarensis;;Insecta;EN;;;;;;;;;
+167;Phymaturus bibronii;Matuasto de Bibron;Reptilia;EN;;;;;;;;;
+168;Phymaturus darwini;Matuasto de Darwin, lagarto de cola gruesa;Reptilia;EN;;;;;;;;;
+169;Phymaturus maulense;Matuasto;Reptilia;EN;;;;;;;;;
+170;Plectostylus araucanus;Caracol de árbol araucano, caracol de árbol;Gastropoda;EN;;;;;;;;;
+171;Praocis aenea;Vaquita;Insecta;EN;;;;;;;;;
+172;Praocis bicentenario;Vaquita del bicentenario;Insecta;EN;;;;;;;;;
+173;Pristidactylus valeriae;Gruñidor de Valeria;Reptilia;EN;;;;;;;;;
+174;Pristidactylus volcanensis;Gruñidor de El Volcán;Reptilia;EN;;;;;;;;;
+175;Ptychodon oculta;Caracol terrestre Ptychodon;Gastropoda;EN;;;;;;;;;
+176;Ptychodon skottsberg;Caracol terrestre Ptychodon;Gastropoda;EN;;;;;;;;;
+177;Scotobius planicosta;;Insecta;EN;;;;;;;;;
+178;Succinea fragilis;Caracol terrestre Succinea;Gastropoda;EN;;;;;;;;;
+179;Succinea mamillata;Caracol terrestre Succinea;Gastropoda;EN;;;;;;;;;
+180;Succinea pinguis;Caracol terrestre Succinea;Gastropoda;EN;;;;;;;;;
+181;Telmatobius philippii;Sapo de Philippi;Amphibia;EN;;;;;;;;;
+182;Telmatobufo ignotus;Rana montana de Los Queules;Amphibia;EN;;;;;;;;;
+183;Telmatobufo venustus;Sapo hermoso;Amphibia;EN;;;;;;;;;
+184;Tornatellina minuta;Caracol terrestre Tornatellina;Gastropoda;EN;;;;;;;;;
+185;Trichomycterus laucaensis;Bagrecito;Actinopterygii;EN;;;;;;;;;
+186;Uretacris lilai;Langosta de Ureta, langosta de Lila, langosta de La Chimba;Insecta;EN;;;;;;;;;
+187;Valdiviomyia gigantea;Mosca florícola valdiviana gigante;Insecta;EN;;;;;;;;;
+188;Virilastacus rucapihuelensis;Camarón;Malacostraca;EN;;;;;;;;;
+189;Chileputo chilensis;Chanchito blanco de la araucaria;Insecta;EN ;;;;;;;;;
+190;Alsodes barrioi;Sapo de Barros;Amphibia;EN-RARA;;;;;;;;;
+191;Alsodes montanus;Sapo de monte;Amphibia;EN-RARA;;;;;;;;;
+192;Alsodes tumultuosus;Sapo;Amphibia;EN-RARA;;;;;;;;;
+193;Alsodes vanzolinii;Sapo de Vanzolini;Amphibia;EN-RARA;;;;;;;;;
+194;Anairetes fernandezianus;Cachudito de Juan Fernández ;Aves;EN-RARA;;;;;;;;;
+195;Cheirodon kiliani;Pocha;Actinopterygii;EN-RARA;;;;;;;;;
+196;Diplomystes chilensis;Tollo de agua dulce;Actinopterygii;EN-RARA;;;;;;;;;
+197;Eupsophus insularis;Sapo de Isla Mocha;Amphibia;EN-RARA;;;;;;;;;
+198;Eupsophus migueli;Sapo de Miguel;Amphibia;EN-RARA;;;;;;;;;
+199;Eupsophus nahuelbutensis;Sapo de Nahuelbuta;Amphibia;EN-RARA;;;;;;;;;
+200;Galaxias globiceps;Puye;Actinopterygii;EN-RARA;;;;;;;;;
+201;Insuetophrynus acarpicus;Sapo ;Amphibia;EN-RARA;;;;;;;;;
+202;Telmatobius pefauri;Sapo de Pefaur;Amphibia;EN-RARA;;;;;;;;;
+203;Telmatobius zapahuirensis;Sapo de Zapahuira;Amphibia;EN-RARA;;;;;;;;;
+204;Trichomycterus chiltoni;Bagrecito;Actinopterygii;EN-RARA;;;;;;;;;
+205;Trichomycterus chungaraensis;Bagrecito;Actinopterygii;EN-RARA;;;;;;;;;
+206;Trichomycterus rivulatus;Bagrecito;Actinopterygii;EN-RARA;;;;;;;;;
