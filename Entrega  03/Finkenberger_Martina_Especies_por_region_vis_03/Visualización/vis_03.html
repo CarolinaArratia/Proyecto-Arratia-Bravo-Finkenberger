@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "vconcat": [{"data": {"name": "data-f8523f23d62a8f59d07c08580ddbc375"}, "mark": {"type": "text", "align": "left", "fontSize": 16}, "encoding": {"text": {"field": "texto", "type": "nominal"}}, "height": 40, "width": 800}, {"data": {"name": "data-3e97910a1153d7b010473dbac440d445"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "CATEGOR\u00cdA VIGENTE", "scale": {"domain": ["CR", "EN", "EN-RARA"], "range": ["#52b788", "#6a4c93", "\t#0099FF"]}, "title": "Categor\u00eda", "type": "nominal"}, "tooltip": [{"field": "REGI\u00d3N", "title": "Regi\u00f3n", "type": "nominal"}, {"field": "CATEGOR\u00cdA VIGENTE", "title": "Categor\u00eda", "type": "nominal"}, {"field": "TOTAL", "title": "Cantidad", "type": "quantitative"}], "x": {"field": "TOTAL", "title": "Cantidad de especies", "type": "quantitative"}, "y": {"field": "REGI\u00d3N", "sort": "-x", "title": "Regi\u00f3n", "type": "nominal"}}, "height": 500, "title": "Especies amenazadas por regi\u00f3n seg\u00fan categor\u00eda de conservaci\u00f3n", "width": 800}], "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-f8523f23d62a8f59d07c08580ddbc375": [{"texto": "CR: 82 especies   |   EN: 227 especies   |   EN-RARA: 27 especies   |   Total: 336 especies"}], "data-3e97910a1153d7b010473dbac440d445": [{"REGI\u00d3N": "Antofagasta (II)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 15}, {"REGI\u00d3N": "Antofagasta (II)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 15}, {"REGI\u00d3N": "Araucan\u00eda (IX)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 3}, {"REGI\u00d3N": "Araucan\u00eda (IX)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 17}, {"REGI\u00d3N": "Araucan\u00eda (IX)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 4}, {"REGI\u00d3N": "Arica y Parinacota (XV)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 2}, {"REGI\u00d3N": "Arica y Parinacota (XV)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 7}, {"REGI\u00d3N": "Arica y Parinacota (XV)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 4}, {"REGI\u00d3N": "Atacama (III)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 2}, {"REGI\u00d3N": "Atacama (III)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 9}, {"REGI\u00d3N": "Ays\u00e9n (XI)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 3}, {"REGI\u00d3N": "B\u00edo-B\u00edo (VIII)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 9}, {"REGI\u00d3N": "B\u00edo-B\u00edo (VIII)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 22}, {"REGI\u00d3N": "B\u00edo-B\u00edo (VIII)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 5}, {"REGI\u00d3N": "Coquimbo (IV)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 3}, {"REGI\u00d3N": "Coquimbo (IV)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 14}, {"REGI\u00d3N": "De Los Lagos (X)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 11}, {"REGI\u00d3N": "De Los Lagos (X)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 1}, {"REGI\u00d3N": "De Los R\u00edos (XIV)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 2}, {"REGI\u00d3N": "De Los R\u00edos (XIV)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 14}, {"REGI\u00d3N": "De Los R\u00edos (XIV)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 3}, {"REGI\u00d3N": "Desventuradas", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 3}, {"REGI\u00d3N": "Desventuradas", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 2}, {"REGI\u00d3N": "Insular", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 3}, {"REGI\u00d3N": "Isla de Pascua", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 2}, {"REGI\u00d3N": "Juan Fern\u00e1ndez", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 19}, {"REGI\u00d3N": "Juan Fern\u00e1ndez", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 33}, {"REGI\u00d3N": "Juan Fern\u00e1ndez", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 1}, {"REGI\u00d3N": "Maule (VII)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 3}, {"REGI\u00d3N": "Maule (VII)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 17}, {"REGI\u00d3N": "Maule (VII)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 1}, {"REGI\u00d3N": "Metropolitana (RM)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 5}, {"REGI\u00d3N": "Metropolitana (RM)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 18}, {"REGI\u00d3N": "Metropolitana (RM)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 3}, {"REGI\u00d3N": "O'Higgins (VI)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 6}, {"REGI\u00d3N": "O'Higgins (VI)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 10}, {"REGI\u00d3N": "O'Higgins (VI)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 3}, {"REGI\u00d3N": "Tarapaca (I)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 3}, {"REGI\u00d3N": "Tarapaca (I)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 4}, {"REGI\u00d3N": "Tarapaca (I)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 1}, {"REGI\u00d3N": "Valpara\u00edso continental (V)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 5}, {"REGI\u00d3N": "Valpara\u00edso continental (V)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 13}, {"REGI\u00d3N": "Valpara\u00edso continental (V)", "CATEGOR\u00cdA VIGENTE": "EN-RARA", "TOTAL": 1}, {"REGI\u00d3N": "\u00d1uble  (XVI)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 1}, {"REGI\u00d3N": "\u00d1uble  (XVI)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 12}, {"REGI\u00d3N": "\u00d1uble (XVI)", "CATEGOR\u00cdA VIGENTE": "CR", "TOTAL": 1}, {"REGI\u00d3N": "\u00d1uble (XVI)", "CATEGOR\u00cdA VIGENTE": "EN", "TOTAL": 1}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
