@@ -104,4 +104,4 @@ La visualización permite responder preguntas como:
 
 - ¿Cómo se distribuyen territorialmente las categorías CR, EN y EN-RARA?
 
-- ¿Qué regiones presentan mayores niveles de vulnerabilidad ecológica?
+
