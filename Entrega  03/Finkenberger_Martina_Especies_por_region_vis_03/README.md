@@ -1,4 +1,4 @@
-# README — Visualización de especies amenazadas por región
+# Visualización de especies amenazadas por región
 
 ## Descripción del proyecto
 
