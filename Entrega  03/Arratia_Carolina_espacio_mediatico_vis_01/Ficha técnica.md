@@ -12,3 +12,5 @@
 | **Protagonista** | Cantidad de noticias donde la especie fue el eje central del relato. |
 | **Ficha técnica** | Resumen cualitativo sobre el hábitat y amenazas de la especie. |
 
+## Observaciones
+Para un procesamiento de datos más expedito, se prefirió filtrar los datos del csv 05_especies_analizadas_unificado mediante tablas dinámicas de excel, para luego realizar la visualización con menos líneas de código. 
