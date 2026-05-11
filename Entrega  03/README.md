@@ -1,25 +1,18 @@
-## Hipótesis actual
+## 1. Hipótesis actual
+La atención pública hacia las especies amenazadas en Chile es profundamente desigual y no guarda relación directa con su nivel de riesgo biológico, siendo determinada por un fenómeno de **asfixia mediática** y digital que prioriza especies carismáticas y zonas geográficas específicas, como el Archipiélago Juan Fernández, dejando en la invisibilidad a la mayor parte de la fauna en Peligro Crítico.
 
-La distribución territorial de especies animales clasificadas en categorías CR, EN y EN-RARA en Chile permite identificar regiones donde se concentra una mayor presencia de especies amenazadas. Esta focalización podría estar relacionada con distintos factores ambientales y humanos que afectan a la biodiversidad.
+## 2. Preguntas de investigación actuales
+* ¿Qué regiones o territorios (como el Archipiélago Juan Fernández) concentran la mayor cantidad de especies en categorías CR y EN-RARA?
+* ¿Cómo se manifiesta la "asfixia mediática" en la prensa nacional y cómo se compara con el interés de búsqueda (Wikipedia) de los usuarios?
+* ¿Es el protagonismo mediático el factor que dicta el interés digital por sobre la urgencia del estado de conservación (RCE)?
+* ¿Por qué especies con el mismo nivel de amenaza presentan brechas de visibilidad tan extremas (ej. Pingüino de Humboldt vs. Caracol de Paposo)?
 
+## 3. Avance del proyecto en relación con la hipótesis y preguntas
+El avance grupal ha permitido transformar una lista estática de especies en un ecosistema de datos interconectados. El procesamiento territorial realizado (Martina) identificó al **Archipiélago de Juan Fernández** como el núcleo crítico de biodiversidad amenazada, lo que nos obligó a preguntarnos si esa importancia biológica se refleja en el espacio público.
 
-## Preguntas de investigación actuales
+Al integrar los datos de Wikipedia (Vicky) y el monitoreo de prensa de los últimos seis meses (Carolina), validamos nuestra hipótesis: **la visibilidad es un recurso acaparado**. Descubrimos que el reconocimiento cultural influye más en el interés que el riesgo de extinción. Mientras especies "estrella" dominan las búsquedas y las portadas, el análisis mediático reveló una estructura de "asfixia", donde el espacio informativo es ocupado casi exclusivamente por animales carismáticos. Esto nos permitió refinar nuestra historia: no solo estamos contando *qué* especies están en peligro, sino *cómo* el silencio mediático y la falta de curiosidad digital condenan a la desaparición silenciosa a especies críticas como el Caracol de Paposo o la Ranita de Darwin del Norte.
 
-- ¿Qué regiones concentran la mayor cantidad de especies amenazadas en Chile?
-- ¿Cómo se distribuyen territorialmente las categorías CR y EN-RARA?
-- ¿Qué especies endémicas se encuentran actualmente en categorías de amenaza?
-- ¿Qué amenazas ambientales y humanas afectan a las especies registradas?
+## 4. Síntesis de la historia
+Este reportaje revela la crisis de invisibilidad que enfrenta la fauna chilena. A través de un cruce entre la realidad biológica territorial y el consumo de información, evidenciamos que el destino de una especie no solo depende de su hábitat, sino de su capacidad de competir en un **espacio mediático saturado**. 
 
-
-## Avance del proyecto en relación con la hipótesis y preguntas de investigación
-
-El trabajo con bases de datos permitió profundizar en la distribución regional de especies animales amenazadas en Chile y detectar inconsistencias presentes en registros originales vinculados al endemismo de algunas especies. A partir de una revisión complementaria de la base de datos inicial, se corrigieron errores de clasificación respecto a especies endémicas y no endémicas, permitiendo construir una base actualizada y más precisa para el análisis.
-
-Estas correcciones modificaron parcialmente la dimensión cuantitativa del proyecto, aumentando el total de especies consideradas para la visualización. Además, el procesamiento territorial de los datos permitió transformar la información original en registros regionales, facilitando la visualización de patrones geográficos de presencia de especies amenazadas.
-
-A partir de la visualización 03, se identificó que el archipiélago de Juan Fernández concentra la mayor presencia de especies clasificadas en categorías CR, EN y EN-RARA dentro de la base trabajada. 
-
-
-## Síntesis de la historia
-
-La historia aborda la situación de especies animales amenazadas en Chile, enfocándose en su distribución territorial y en las categorías de conservación en las que actualmente se encuentran clasificadas. 
+La historia viaja desde los "puntos calientes" de biodiversidad en Juan Fernández hasta las redacciones de prensa, mostrando cómo el protagonismo de unos pocos (como el pingüino de Humboldt) deja sin oxígeno narrativo a decenas de especies en Peligro Crítico. El contraste entre los datos de Wikipedia y el recuento de noticias demuestra que la atención digital es un reflejo de la asfixia mediática: mientras no le demos espacio a las "hermanas invisibles" de nuestra fauna en la conversación pública, su extinción ocurrirá ante la indiferencia de una sociedad que solo sabe proteger lo que ve.
