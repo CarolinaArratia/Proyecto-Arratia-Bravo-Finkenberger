@@ -47,6 +47,19 @@ El prototipo se estructuró bajo la lógica de un embudo de concientización en 
 5. **Eje Mediático (Crónica 3 - Carolina Arratia):** Como clímax analítico de la webstory, este segmento se introduce para responder al origen estructural del síntoma previamente expuesto a través de la teoría de la "asfixia mediática". Utilizando la analogía de la rivalidad entre la ultra-visibilizada Ranita de Darwin del Sur y su ignorada "hermana" del Norte (Rhinoderma rufum), el texto se entrelaza con un gráfico de tipo Treemap que cuantifica cómo la prensa tradicional chilena opera como una habitación con espacio fijo. Al demostrar numéricamente que figuras como el Pingüino de Humboldt actúan con un megáfono publicitario que satura las portadas, se justifica esta posición final porque le permite al lector conectar los hilos y comprender que el olvido digital en internet es una consecuencia directa del sesgo de cobertura de los medios masivos, los cuales privan de oxígeno narrativo a criaturas en peligro crítico como el Caracol de Paposo.
 
 
+## 3. Actualización de la hipótesis y propuesta de trabajo grupal.
+
+### Hipótesis: 
+La atención pública hacia las especies amenazadas en Chile es profundamente desigual y no guarda relación directa con su nivel de riesgo biológico, siendo determinada por un fenómeno de asfixia mediática y digital que prioriza especies carismáticas y zonas geográficas específicas, como el Archipiélago Juan Fernández, dejando en la invisibilidad a la mayor parte de la fauna en Peligro Crítico.
+
+### Preguntas de investigación
+- ¿Qué regiones o territorios (como el Archipiélago Juan Fernández) concentran la mayor cantidad de especies en categorías CR y EN-RARA?
+
+- ¿Cómo se manifiesta la "asfixia mediática" en la prensa nacional y cómo se compara con el interés de búsqueda (Wikipedia) de los usuarios?
+
+- ¿Es el protagonismo mediático el factor que dicta el interés digital por sobre la urgencia del estado de conservación (RCE)?
+
+- ¿Por qué especies con el mismo nivel de amenaza presentan brechas de visibilidad tan extremas (ej. Pingüino de Humboldt vs. Caracol de Paposo)?
 
 
 
