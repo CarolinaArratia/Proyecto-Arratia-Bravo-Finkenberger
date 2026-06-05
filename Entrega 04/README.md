@@ -47,10 +47,18 @@ El prototipo se estructuró bajo la lógica de un embudo de concientización en 
 5. **Eje Mediático (Crónica 3 - Carolina Arratia):** Como clímax analítico de la webstory, este segmento se introduce para responder al origen estructural del síntoma previamente expuesto a través de la teoría de la "asfixia mediática". Utilizando la analogía de la rivalidad entre la ultra-visibilizada Ranita de Darwin del Sur y su ignorada "hermana" del Norte (Rhinoderma rufum), el texto se entrelaza con un gráfico de tipo Treemap que cuantifica cómo la prensa tradicional chilena opera como una habitación con espacio fijo. Al demostrar numéricamente que figuras como el Pingüino de Humboldt actúan con un megáfono publicitario que satura las portadas, se justifica esta posición final porque le permite al lector conectar los hilos y comprender que el olvido digital en internet es una consecuencia directa del sesgo de cobertura de los medios masivos, los cuales privan de oxígeno narrativo a criaturas en peligro crítico como el Caracol de Paposo.
 
 
-## 3. Actualización de la hipótesis y propuesta de trabajo grupal.
+## 3. Actualización de la hipótesis y propuesta de trabajo grupal
 
-### Hipótesis: 
+### Hipótesis
 La atención pública hacia las especies amenazadas en Chile es profundamente desigual y no guarda relación directa con su nivel de riesgo biológico, siendo determinada por un fenómeno de asfixia mediática y digital que prioriza especies carismáticas y zonas geográficas específicas, como el Archipiélago Juan Fernández, dejando en la invisibilidad a la mayor parte de la fauna en Peligro Crítico.
+
+
+### Propuesta de investigación
+Este reportaje se plantea como una propuesta de investigación sobre la crisis de invisibilidad de la fauna chilena. A partir del cruce entre la realidad biológica y territorial de las especies y el consumo de información, se busca analizar cómo el destino de una especie no depende solo de su hábitat, sino también de su capacidad de competir en un espacio mediático saturado.
+
+La investigación conecta los “puntos calientes” de biodiversidad, como el Archipiélago de Juan Fernández, con el ecosistema de las redacciones de prensa, para examinar cómo el protagonismo de ciertas especies —como el pingüino de Humboldt— puede relegar a decenas de especies en Peligro Crítico a la invisibilidad narrativa.
+
+Asimismo, se propone contrastar datos de Wikipedia con el volumen de noticias en medios digitales, con el fin de evidenciar una posible “asfixia mediática”, donde la atención digital reproduce jerarquías de visibilidad.
 
 ### Preguntas de investigación
 - ¿Qué regiones o territorios (como el Archipiélago Juan Fernández) concentran la mayor cantidad de especies en categorías CR y EN-RARA?
@@ -60,10 +68,3 @@ La atención pública hacia las especies amenazadas en Chile es profundamente de
 - ¿Es el protagonismo mediático el factor que dicta el interés digital por sobre la urgencia del estado de conservación (RCE)?
 
 - ¿Por qué especies con el mismo nivel de amenaza presentan brechas de visibilidad tan extremas (ej. Pingüino de Humboldt vs. Caracol de Paposo)?
-
-### Propuesta/síntesis de la investigación
-Este reportaje revela la crisis de invisibilidad que enfrenta la fauna chilena. A través de un cruce entre la realidad biológica territorial y el consumo de información, evidenciamos que el destino de una especie no solo depende de su hábitat, sino de su capacidad de competir en un espacio mediático saturado.
-
-La historia viaja desde los "puntos calientes" de biodiversidad en Juan Fernández hasta las redacciones de prensa, mostrando cómo el protagonismo de unos pocos (como el pingüino de Humboldt) deja sin oxígeno narrativo a decenas de especies en Peligro Crítico. El contraste entre los datos de Wikipedia y el recuento de noticias demuestra que la atención digital es un reflejo de la asfixia mediática: mientras no le demos espacio a las "hermanas invisibles" de nuestra fauna en la conversación pública, su extinción ocurrirá ante la indiferencia de una sociedad que solo sabe proteger lo que ve.
-
-
