@@ -23,6 +23,7 @@ El objetivo de este enfoque visual es cruzar la **calidez del territorio** con l
 - **Lora** (40px en cuerpo): Una tipografía con remates (serif) con curvas contemporáneas, ideal para el formato de crónica periodística de largo aliento. Su diseño facilita la lectura inmersiva y añade el peso literario indispensable para una pieza de no ficción.
 
 **Recursos Gráficos y Botones:**
+
 Se diseñaron botones limpios y sólidos con esquinas redondeadas acompañados de flechas direccionales minimalistas para una navegación sin fricciones.
 
 La ilustración principal del sistema muestra una amalgama densa y superpuesta de biodiversidad chilena. Este recurso visual satura el espacio a propósito, sirviendo como una metáfora exacta de la tesis de la investigación: una fauna que se amontona y lucha por un espacio mínimo para subsistir.
