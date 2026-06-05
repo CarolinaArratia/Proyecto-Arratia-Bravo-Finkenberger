@@ -61,6 +61,9 @@ La atención pública hacia las especies amenazadas en Chile es profundamente de
 
 - ¿Por qué especies con el mismo nivel de amenaza presentan brechas de visibilidad tan extremas (ej. Pingüino de Humboldt vs. Caracol de Paposo)?
 
+### Propuesta/síntesis de la investigación
+Este reportaje revela la crisis de invisibilidad que enfrenta la fauna chilena. A través de un cruce entre la realidad biológica territorial y el consumo de información, evidenciamos que el destino de una especie no solo depende de su hábitat, sino de su capacidad de competir en un espacio mediático saturado.
 
+La historia viaja desde los "puntos calientes" de biodiversidad en Juan Fernández hasta las redacciones de prensa, mostrando cómo el protagonismo de unos pocos (como el pingüino de Humboldt) deja sin oxígeno narrativo a decenas de especies en Peligro Crítico. El contraste entre los datos de Wikipedia y el recuento de noticias demuestra que la atención digital es un reflejo de la asfixia mediática: mientras no le demos espacio a las "hermanas invisibles" de nuestra fauna en la conversación pública, su extinción ocurrirá ante la indiferencia de una sociedad que solo sabe proteger lo que ve.
 
 
