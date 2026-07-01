@@ -3,7 +3,7 @@ Link del repositorio de la página web: https://github.com/CarolinaArratia/Espec
 
 Link a la página web: https://carolinaarratia.github.io/Especies-al-limite/
 
-* La página webs se construyó en un repo aparte del grupal original debido a problemas para actualizar contenido en Github Desktop.
+* La página web se construyó en un repo aparte del grupal original debido a problemas para actualizar contenido en Github Desktop.
 
 ## Titular del reportaje
 **Especies al Límite: La doble extinción de la fauna chilena**
