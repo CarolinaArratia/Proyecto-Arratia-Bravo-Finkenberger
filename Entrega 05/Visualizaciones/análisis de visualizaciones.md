@@ -9,6 +9,7 @@ Nuestra webstory utiliza tres visualizaciones de datos clave, cada una diseñada
 
 ## 2. Generación y Código
 Las tres visualizaciones fueron desarrolladas utilizando la librería **Vega-Lite** embebida en JavaScript. A continuación se detallan las especificaciones JSON utilizadas para la renderización interactiva de cada gráfico, incluyendo sus respectivas bases de datos tabuladas:
+(El código JSON exacto de cada gráfico se encuentra integrado en las etiquetas <script> del archivo index.html en la carpeta /docs).
 
 ### Gráfico 1: Especies amenazadas por región (Desarrollado por Martina)
 Se utilizó una concatenación vertical (vconcat) para incluir un resumen superior y un mark: bar codificando el eje Y con las Regiones y el color según categoría de conservación.
