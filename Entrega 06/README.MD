@@ -9,7 +9,14 @@ Este reportaje de periodismo de datos explora un fenómeno silencioso que afecta
 ## Análisis de Hipótesis
 **Hipótesis inicial:** Las especies con menor "carisma" o atractivo visual reciben significativamente menos atención pública y mediática, lo que las relega a un segundo plano en los esfuerzos de conservación y en la memoria colectiva del país, sufriendo una doble vulnerabilidad.
 
-**Evolución:** A lo largo de la investigación y el cruce de datos, la hipótesis no solo se demostró, sino que se complejizó. Descubrimos fenómenos paralelos como la "paradoja del carisma" (donde especies como la Chinchilla lideran las búsquedas en Wikipedia no por preocupación ecológica, sino por su valor como mascotas) y la "asfixia del espacio mediático", donde una especie popular acapara el 100% del protagonismo en las noticias, dejando en la invisibilidad absoluta a especies con el mismo nivel de riesgo crítico, como la ranita de Darwin del Norte.
+**Evolución:** El desarrollo del reportaje y la comprensión de los datos atravesaron tres etapas clave:
+- **Punto de partida**: El proyecto comenzó bajo la premisa de que los animales "atractivos" (por tamaño, color o simpatía) se transformaban en símbolos reconocibles de la biodiversidad, dejando fuera del foco a los organismos menos familiares. El concepto de "carisma" se entendía de forma superficial, asociado únicamente a la apariencia física.
+
+- **Punto de quiebre**: Al procesar las métricas de tráfico en Wikipedia, la hipótesis estética colapsó. El hecho de que un pequeño roedor (chinchilla) críticamente amenazado superara drásticamente en clics al huemul (emblema del escudo nacional) o al pingüino de Humboldt reveló variables ocultas. Tras investigar la literatura científica, identificamos que la presión comercial histórica (la industria peletera de los siglos XIX y XX) y el éxito del animal en el mercado global de mascotas en cautiverio eran los verdaderos motores de su popularidad digital.
+
+- **La resignificación**: La narrativa evolucionó para integrar el concepto científico de "extinción virtual". Comprendimos que el "carisma mediático" no es solo un atributo visual, sino un fenómeno de factores desconocidos que altera que altera el ecosistema de la información. La curva plana del fondo del gráfico sí demostró la asfixia de peces, insectos y reptiles, pero el pico de la chinchilla demostró que la popularidad en internet puede ocultar trágicamente la inminente desaparición real de una especie en su hábitat natural.
+
+**Hipótesis final:** Existen factores indeterminados ajenos al riesgo ecológico o la estética que condicionan la fama digital de la fauna, marginando a la mayoría de las especies de la conversación social.
 
 ## Proceso de Construcción de la Página Web
 El desarrollo técnico y la maquetación de la webstory fue un proceso iterativo de mucho ensayo y error. Tuvimos que tomar decisiones de código (HTML/CSS/JS) para que la tecnología no entorpeciera la narrativa, sino que la potenciara:
